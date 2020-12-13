@@ -15,3 +15,5 @@ Each board will have one red and one blue queen at different coordinates. In add
 - queens on same column should be “under attack”
 - queens on same diagonal should be “under attack”
 - queens with any other coordinates should NOT be “under attack”
+
+## [The repo linke](https://github.com/Sajanader/chess_board) 
